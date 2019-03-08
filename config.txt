@@ -1,4 +1,4 @@
-token=NTUyMjcyNTk4MDU1MjU2MDg0.D19Hzw.wknJ4R7eb5W_f13KGLBbfV2M4NI
+token=
 owner=273977466073382913
 prefix=2
 game=2help - Bagira Joky
