@@ -1,6 +1,21 @@
 token=NTU0NzU0ODYwNTA4MTE5MDQw.D3AsDA.2Y7Nmc-GvlJmqr59IVpd3faRkyE
-owner=273977466073382913
-prefix=2
-game=2help - Bagira Joky
-stayinchannel=true
+owner=201460488037466112
+prefix="1"
+game="DEFAULT"
+status=ONLINE
 songinstatus=true
+altprefix="NONE"
+
+success="🎶"
+warning="💡"
+error="🚫"
+loading="⌚"
+searching="🔎"
+
+help=help
+npimages=false
+stayinchannel=false
+maxtime=0
+playlistsfolder=Playlists
+updatealerts=true
+eval=false
