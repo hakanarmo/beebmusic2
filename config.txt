@@ -1,4 +1,4 @@
-token=process.env.token
+token=NTU0NzU0ODYwNTA4MTE5MDQw.D3AsDA.2Y7Nmc-GvlJmqr59IVpd3faRkyE
 owner=273977466073382913
 prefix=2
 game=2help - Bagira Joky
